@@ -1,32 +1,4 @@
-[
-    {
-        "ID": 1,
-        "name": "John Doe",
-        "address": "123 Main Street, Springfield, IL",
-        "group": "Springfield Warriors"
-    },
-    {
-        "ID": 2,
-        "name": "Jane Smith",
-        "address": "456 Elm Street, Chicago, IL",
-        "group": "Chicago Titans"
-    },
-    {
-        "ID": 3,
-        "name": "Sam Wilson",
-        "address": "789 Oak Avenue, New York, NY",
-        "group": "NYC Hustlers"
-    },
-    {
-        "ID": 4,
-        "name": "Alice Brown",
-        "address": "321 Pine Lane, Los Angeles, CA",
-        "group": "LA Challengers"
-    },
-    {
-        "ID": 5,
-        "name": "Michael Johnson",
-        "address": "654 Maple Road, Miami, FL",
-        "group": "Miami Calisthenics"
-    }
-]
+{
+  "ID": 1,
+  "name": "Updated Name"
+}
